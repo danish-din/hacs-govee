@@ -1,3 +1,5 @@
+THIS IS IN ALPHA DEVELOPEMENT PHASE.  INVESTIGATING VIABILITY OF ADDING SPACE HEATER TO HACS
+
 # 'Govee' integration
 
 The Govee integration allows you to control and monitor lights and switches using the Govee API.
